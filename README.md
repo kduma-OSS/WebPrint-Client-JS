@@ -12,4 +12,4 @@ npm i webprint.js
 
 ## Usage
 
-Check documentation here: https://opensource.duma.sh/libraries/webprint-js
+Check documentation here: [opensource.duma.sh/libraries/js/webprint](https://opensource.duma.sh/libraries/js/webprint)
